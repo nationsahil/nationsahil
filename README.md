@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nationsahil
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React & javascript
+- 🌱 I’m currently learning AngularJS & javascript
 - 💞️ I’m looking to collaborate on Dynamic Websites
 - 📫 How to reach me? > nationsahil@icloud.com hit me up on instagram.com/nationsahil/ or anywhere username @nationsahil
 
